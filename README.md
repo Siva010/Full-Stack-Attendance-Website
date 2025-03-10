@@ -1,4 +1,4 @@
-CRR Needs This Website for attendance
+CRR Needs This Website for attendance ( still working)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
